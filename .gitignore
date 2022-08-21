@@ -1,0 +1,6 @@
+#忽略index.css文件
+index.css
+#忽略text下的.txt文件
+text/*.txt
+#忽略当前文件下的txt
+/*.txt
